@@ -1,0 +1,4 @@
+SHELL=/bin/bash
+MAILTO=u0000056
+0 */6 * * * cd /var/www/u0000056/apolonka.rg3.su/www/ && php index.php xml
+
